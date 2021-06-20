@@ -17,6 +17,7 @@ make VERBOSE=1
 ## History
 
 dates: June 19, 2021
+
 duration: 8 hours
 
 ### IDE Scramble
