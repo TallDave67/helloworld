@@ -44,9 +44,12 @@ sudo update-alternatives --config cc
 > There are 2 choices for the alternative cc (providing /usr/bin/cc).
 > 
 >   Selection    Path            Priority   Status
+>   
 > ------------------------------------------------------------
 >   0            /usr/bin/gcc     20        auto mode
+>   
 > * 1            /usr/bin/clang   10        manual mode
+> 
 >   2            /usr/bin/gcc     20        manual mode
 
 ### Setting clang Compile Options
