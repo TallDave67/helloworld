@@ -5,6 +5,9 @@ This project demonstrates modules in C++20.  Uses clang compiler on linux (pop o
 ## Steps
 
 cd build
+
 ./doCmake.sh
+
 make VERBOSE=1
+
 ./helloworld-driver
