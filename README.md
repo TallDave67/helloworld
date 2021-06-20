@@ -1,6 +1,8 @@
 # Hello World
 
-This project demonstrates modules in C++20.  Uses clang compiler on linux (pop os 20.10).
+This project demonstrates modules in C++20.
+
+Uses clang compiler on linux (pop os 20.10).
 
 ## Steps
 
