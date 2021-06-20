@@ -63,7 +63,7 @@ Good details from these folks.
 
 Anything being included or imported by the module I was trying to create was flagged as undefined by compiler.
 
-Thanks to Arthur O’Dwyer for providing the particular syntax that pushed this project to completion.
+Thanks a bunch to Arthur O’Dwyer for providing the particular syntax that pushed this project to completion.
 
 [Things the module uses must be outside of the module](https://quuxplusone.github.io/blog/2019/11/07/modular-hello-world/)
 
