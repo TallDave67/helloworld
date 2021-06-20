@@ -48,7 +48,7 @@ sudo update-alternatives --config cc
 > ------------------------------------------------------------
 >   0            /usr/bin/gcc     20        auto mode
 >   
-> * 1            /usr/bin/clang   10        manual mode
+>   1            /usr/bin/clang   10        manual mode
 > 
 >   2            /usr/bin/gcc     20        manual mode
 
