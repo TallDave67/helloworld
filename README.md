@@ -32,7 +32,7 @@ Once I realized I had full control with CMake and make I ditched the IDEs.
 
 These folks gave me my start.
 
-[Another Developer](https://stackoverflow.com/questions/57300495/how-to-use-c20-modules-with-cmake)
+[Modules](https://stackoverflow.com/questions/57300495/how-to-use-c20-modules-with-cmake)
 
 ### Setting clang as Compiler
 
