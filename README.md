@@ -28,7 +28,7 @@ So many hoops to jump through with these IDEs.
 
 Once I realized I had full control with CMake and make I ditched the IDEs.
 
-### Core code from Another Developer
+### Code from Another Developer
 
 These folks gave me my start.
 
