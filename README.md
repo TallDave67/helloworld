@@ -2,7 +2,7 @@
 
 This project demonstrates modules in C++20.
 
-Linux Distro "Pop!_OS 20.10"
+Linux distro "Pop!_OS 20.10"
 
 cmake version 3.16.3
 
