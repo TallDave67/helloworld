@@ -1,4 +1,4 @@
-# Hello World
+# Hello World (C++20)
 
 This project demonstrates modules in C++20.
 
